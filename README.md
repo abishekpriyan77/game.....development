@@ -66,6 +66,9 @@ Step 5: Play the picture.
 
 ## OUTPUT:
 <img width="1265" height="879" alt="image" src="https://github.com/user-attachments/assets/3560fdf0-428c-4c05-ab32-a719e563350d" />
+
+
+
 ## RESULT:
 Thus the animation was done using flash and the output was verified.
 
